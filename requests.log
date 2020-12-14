@@ -1,0 +1,15 @@
+time                         | ip        | action  | filename
+[2020-12-01 16:58:03.029190] | 127.0.0.1 | encrypt | Important.png
+[2020-12-01 17:03:04.418665] | 127.0.0.1 | decrypt | Important.png.enc
+[2020-12-01 17:42:25.409842] | 127.0.0.1 | encrypt | 10.4.4-lab-build-a-switch-and-router-network.pdf
+[2020-12-01 17:42:45.738717] | 127.0.0.1 | decrypt | 10.4.4-lab-build-a-switch-and-router-network.pdf.enc
+[2020-12-01 23:22:10.210513] | 127.0.0.1 | encrypt | Important.png
+[2020-12-01 23:22:34.689436] | 127.0.0.1 | decrypt | Important.png.enc
+[2020-12-02 01:45:05.798478] | 127.0.0.1 | encrypt | Important.png
+[2020-12-02 01:45:26.046310] | 127.0.0.1 | decrypt | Important.png.enc
+[2020-12-02 02:05:59.775439] | 127.0.0.1 | encrypt | Important.png
+[2020-12-02 02:16:33.140644] | 127.0.0.1 | encrypt | Schedule.pdf
+[2020-12-02 02:16:49.270392] | 127.0.0.1 | decrypt | Schedule.pdf.enc
+[2020-12-02 02:18:01.605882] | 127.0.0.1 | decrypt | Schedule.pdf.enc
+[2020-12-10 16:06:31.516437] | 127.0.0.1 | encrypt | Certifications.txt
+[2020-12-10 16:07:51.373639] | 127.0.0.1 | decrypt | Certifications.txt
