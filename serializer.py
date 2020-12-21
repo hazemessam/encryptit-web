@@ -5,8 +5,8 @@ TEMP_FOLDER_PATH = 'public/temp'
 
 class Serializer():
     # Encrypt file
-    @classmethod
-    def encrypt(cls, filename):
+    @staticmethod
+    def encrypt(filename):
         src_path = f'{TEMP_FOLDER_PATH}/{filename}'
         target_path = f'{src_path}.enc'
         src_file, target_file = None, None
@@ -48,8 +48,8 @@ class Serializer():
 
 
     # Decrypt file
-    @classmethod
-    def decrypt(cls, filename):
+    @staticmethod
+    def decrypt(filename):
         src_path = f'{TEMP_FOLDER_PATH}/{filename}'
         target_path = src_path.split('.enc')[0] if src_path.endswith('.enc') else f'{src_path}.dec'
         src_file,  target_file= None, None
