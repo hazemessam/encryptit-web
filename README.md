@@ -20,3 +20,4 @@ $ ./app.py
  * Debugger is active!
  * Debugger PIN: 191-047-995
 ```
+Check http://127.0.0.1:5000/ in the browser.
