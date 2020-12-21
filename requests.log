@@ -13,3 +13,10 @@ time                         | ip        | action  | filename
 [2020-12-02 02:18:01.605882] | 127.0.0.1 | decrypt | Schedule.pdf.enc
 [2020-12-10 16:06:31.516437] | 127.0.0.1 | encrypt | Certifications.txt
 [2020-12-10 16:07:51.373639] | 127.0.0.1 | decrypt | Certifications.txt
+[2020-12-22 00:33:54.580872] | 127.0.0.1 | encrypt | Algo Lec_2.pdf
+[2020-12-22 00:36:11.827151] | 127.0.0.1 | encrypt | practical.png
+[2020-12-22 00:36:31.907011] | 127.0.0.1 | decrypt | practical.png.enc
+[2020-12-22 00:37:05.260404] | 127.0.0.1 | encrypt | Algo Lec_2.pdf
+[2020-12-22 00:45:42.748548] | 127.0.0.1 | encrypt | Algo Lec_2.pdf
+[2020-12-22 00:46:07.786688] | 127.0.0.1 | decrypt | Algo_Lec_2.pdf.enc
+[2020-12-22 00:53:56.223137] | 127.0.0.1 | decrypt | Algo Lec_2.pdf.enc
